@@ -1,0 +1,18 @@
+# 環境変数（APIキー）
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+
+# 出力ファイル（必要に応じてコメントアウト）
+# outputs/
+
+# OS
+.DS_Store
+Thumbs.db
